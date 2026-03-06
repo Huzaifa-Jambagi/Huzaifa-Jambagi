@@ -10,8 +10,6 @@
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?logo=react&logoColor=black)
 ![Next JS](https://img.shields.io/badge/next.js-black?logo=next.js&logoColor=white)
