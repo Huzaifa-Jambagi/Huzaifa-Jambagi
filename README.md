@@ -21,6 +21,7 @@
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-black?logo=express)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?logo=javascript&logoColor=black)
@@ -32,6 +33,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300748F.svg?logo=database&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
@@ -39,3 +41,5 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?logo=vercel&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?logo=drizzle&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
