@@ -12,6 +12,7 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-black?logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
