@@ -1,5 +1,4 @@
 # 💫 About Me
-💼 Currently working as a **Software Developer Intern at TalentCogent** 
 🔭 I’m currently working on Full Stack projects  
 🎯 Full Stack Developer 
 
