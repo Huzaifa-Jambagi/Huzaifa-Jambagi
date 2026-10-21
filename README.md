@@ -11,6 +11,7 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-black?logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
@@ -20,8 +21,8 @@
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Express](https://img.shields.io/badge/express-black?logo=express)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?logo=javascript&logoColor=black)
@@ -34,6 +35,7 @@
 ![SQL](https://img.shields.io/badge/sql-%2300748F.svg?logo=database&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
